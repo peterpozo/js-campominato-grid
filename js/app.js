@@ -9,4 +9,4 @@ for (i=1; i<=100; i++) {
     sq.addEventListener('click', function(){
         this.classList.toggle('active');
     })
-  }
+}
