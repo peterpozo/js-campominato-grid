@@ -1,0 +1,25 @@
+.grid{
+    background-color: #7fffd4;
+    padding: 8rem;
+}
+
+.squares {
+	display: flex;
+	flex-wrap: wrap;
+    margin: auto;
+    width: 800px;
+}
+
+.sq {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 5rem;
+	height: 5rem;
+	background-color: #0cd6a1;
+    border: 1px solid black;
+}
+
+.active{
+    background-color: #f0466f;
+}
