@@ -8,14 +8,13 @@
 	flex-wrap: wrap;
     margin: auto;
     width: 800px;
+	height: 800px;
 }
 
 .sq {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 5rem;
-	height: 5rem;
 	background-color: #0cd6a1;
     border: 1px solid black;
 }
